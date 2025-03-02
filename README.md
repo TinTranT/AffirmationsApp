@@ -1,7 +1,9 @@
-Affirmations App - Starter Code
+Affirmations App
 ================================
 
-Starter code for the Android Basics with Compose: Affirmations app.
+Student Code: 22110076
+
+Fullname: Tran trung Tin
 
 
 Introduction
