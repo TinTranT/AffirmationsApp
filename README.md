@@ -3,7 +3,7 @@ Affirmations App
 
 Student Code: 22110076
 
-Fullname: Tran trung Tin
+Fullname: Tran Trung Tin
 
 
 Introduction
